@@ -10,9 +10,11 @@ Current Capabilities
 - Load FEFF input (feff.inp) and FEFF path (paths.dat, feffNNNN.dat) files
 - Visualize:
   - 3D 2D projections (XY, XZ, YZ) atomic positions
-  <img src="https://github.com/user-attachments/assets/399d2779-5992-4192-bc11-b961b9d4eb2c" width="500">  
+  <img src="https://github.com/user-attachments/assets/399d2779-5992-4192-bc11-b961b9d4eb2c" width="500">
+
   - 3D and 2D projections (XY, XZ, YZ) FEFF path vectors
-  <img src="https://github.com/user-attachments/assets/c8b43553-45c0-4273-a60d-422cd5457c4c" width="500">  
+  <img src="https://github.com/user-attachments/assets/c8b43553-45c0-4273-a60d-422cd5457c4c" width="500">
+
   - Highlight selected paths directly on the input structure
 
 
