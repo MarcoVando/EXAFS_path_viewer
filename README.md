@@ -15,7 +15,8 @@ Current Capabilities
   - 3D and 2D projections (XY, XZ, YZ) FEFF path vectors
   <img src="https://github.com/user-attachments/assets/c8b43553-45c0-4273-a60d-422cd5457c4c" width="500">
 
-  - Highlight selected paths directly on the input structure
+  - Highlight selected paths directly on the input structure  
+    <img src="https://github.com/user-attachments/assets/a556b756-1ca3-41d1-a413-d608b5752f6c" width="500">
 
 ## Planned for Future Versions 
 - Batch import of all generated FEFF paths
