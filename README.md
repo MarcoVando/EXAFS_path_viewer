@@ -23,10 +23,10 @@ Current Capabilities
   - GUI interface for interactive exploration
 
 ## 📦 Dependencies  
-``import numpy as np  
-import pandas as pd  
-import matplotlib.pyplot as plt  
-from mpl_toolkits.mplot3d import Axes3D  
-import re  
-import sys  
+``import numpy as np\n
+import pandas as pd\n
+import matplotlib.pyplot as plt\n
+from mpl_toolkits.mplot3d import Axes3D\n
+import re\n
+import sys\n
 from io import StringIO  ``
