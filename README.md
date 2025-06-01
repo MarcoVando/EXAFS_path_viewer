@@ -17,10 +17,9 @@ Current Capabilities
 
   - Highlight selected paths directly on the input structure
 
-
-
 ## Planned for Future Versions 
 - Batch import of all generated FEFF paths
+- Interactive 3D view with  Plotly
 - Plotting of:
   - χ(k), k²χ(k), and k³χ(k)
   - χ(R)
@@ -29,3 +28,29 @@ Current Capabilities
 
 ## 📦 Dependencies  
 numpy, pandas, matplotlib
+
+
+## Installation
+
+1. Create a virtual environment (recommended):
+```bash
+python -m venv venv
+source venv/bin/activate  # On Windows: venv\Scripts\activate
+```
+
+2. Install dependencies:
+```bash
+pip install -r requirements.txt
+```
+
+## Usage
+
+Run the script with a FEFF path file as input:
+```bash
+python path_viewer.py -p path/to/your/feff_file.dat -i path/to/your/feff_inp_file.inp 
+```
+
+The program will generate three types of visualizations:
+1. 2D plot (XY plane)
+2. 3D plot using matplotlib
+3. Interactive 3D plot using Plotly (future)
