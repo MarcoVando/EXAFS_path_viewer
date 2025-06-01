@@ -5,7 +5,7 @@
 - 2D projections: XY, XZ, and YZ planes  
 - Selected paths can be highlighted on top of the atomic structure, providing intuitive insight into scattering contributions.  
 
-**🚧 Features**
+## 🚧 Features
 Current Capabilities
 - Load FEFF input (feff.inp) and FEFF path (paths.dat, feffNNNN.dat) files
 - Visualize:
@@ -14,7 +14,7 @@ Current Capabilities
   - 2D projections (XY, XZ, YZ)
   - Highlight selected paths directly on the input structure
 
-**Planned for Future Versions**
+## Planned for Future Versions 
 - Batch import of all generated FEFF paths
 - Plotting of:
   - χ(k), k²χ(k), and k³χ(k)
@@ -22,11 +22,11 @@ Current Capabilities
   - Path-specific amplitude, phase, and real/imaginary components
   - GUI interface for interactive exploration
 
-**📦 Dependencies**
-``import numpy as np
-import pandas as pd
-import matplotlib.pyplot as plt
-from mpl_toolkits.mplot3d import Axes3D
-import re
-import sys
-from io import StringIO``
+## 📦 Dependencies  
+``import numpy as np  
+import pandas as pd  
+import matplotlib.pyplot as plt  
+from mpl_toolkits.mplot3d import Axes3D  
+import re  
+import sys  
+from io import StringIO  ``
