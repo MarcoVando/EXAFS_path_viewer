@@ -16,7 +16,7 @@ Current Capabilities
 
 ![inp_view](https://github.com/user-attachments/assets/399d2779-5992-4192-bc11-b961b9d4eb2c)
 
-<img src="[https://your-image-url.type](https://github.com/user-attachments/assets/c8b43553-45c0-4273-a60d-422cd5457c4c)" width="100" height="100">
+<img src="https://github.com/user-attachments/assets/c8b43553-45c0-4273-a60d-422cd5457c4c" width="100" height="100">
 
 ## Planned for Future Versions 
 - Batch import of all generated FEFF paths
